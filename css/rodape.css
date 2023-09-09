@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: auto;
+}
+
+.footer {
+    width: auto;
+    text-align: center;
+    background: #94FFC1;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    line-height: 50px;
+    padding: 0 20px;
+    margin-top: 80px;
+    position: absolute;
+    bottom: 0;
+}

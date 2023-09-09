@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    text-decoration-color: black;
+    text-align: center;
+    font-size: 15pt;
+    position: relative;
+}
+
+.footer {
+    width: auto;
+    text-align: center;
+    background: #94FFC1;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    line-height: 50px;
+    padding: 0 20px;
+    margin-top: 90px;
+}
+
+.caixa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 300px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial;
+    color: rgb(0, 0, 0);
+}
+
+h2,
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    text-align: justify;
+
+}
